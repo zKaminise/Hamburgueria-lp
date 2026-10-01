@@ -1,0 +1,229 @@
+{
+  "origin": "http://127.0.0.1:3000",
+  "date": "2026-09-23T09:44:30.933Z",
+  "viewports": [
+    {
+      "width": 320,
+      "height": 740,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 375,
+      "height": 812,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 414,
+      "height": 896,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 1024,
+      "height": 768,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 3440,
+      "height": 1440,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    },
+    {
+      "width": 3840,
+      "height": 2160,
+      "noHorizontalOverflow": true,
+      "heroCtaInViewport": true,
+      "scenePinned": true,
+      "sceneVisible": true
+    }
+  ],
+  "checks": [
+    {
+      "name": "scene-1",
+      "pass": true
+    },
+    {
+      "name": "scene-1-copy-fits",
+      "pass": true
+    },
+    {
+      "name": "scene-2",
+      "pass": true
+    },
+    {
+      "name": "scene-2-copy-fits",
+      "pass": true
+    },
+    {
+      "name": "scene-3",
+      "pass": true
+    },
+    {
+      "name": "scene-3-copy-fits",
+      "pass": true
+    },
+    {
+      "name": "scene-4",
+      "pass": true
+    },
+    {
+      "name": "scene-4-copy-fits",
+      "pass": true
+    },
+    {
+      "name": "scene-5",
+      "pass": true
+    },
+    {
+      "name": "scene-5-copy-fits",
+      "pass": true
+    },
+    {
+      "name": "scene-6",
+      "pass": true
+    },
+    {
+      "name": "scene-6-copy-fits",
+      "pass": true
+    },
+    {
+      "name": "reverse-scroll",
+      "pass": true
+    },
+    {
+      "name": "centralized-order-links",
+      "pass": true
+    },
+    {
+      "name": "no-broken-images",
+      "pass": true,
+      "detail": []
+    },
+    {
+      "name": "restaurant-schema",
+      "pass": true
+    },
+    {
+      "name": "menu-locks-background",
+      "pass": true
+    },
+    {
+      "name": "escape-closes-menu-and-restores-focus",
+      "pass": true
+    },
+    {
+      "name": "menu-navigates-and-closes",
+      "pass": true
+    },
+    {
+      "name": "reduced-motion-static-scenes",
+      "pass": true
+    },
+    {
+      "name": "landscape-no-overflow",
+      "pass": true
+    },
+    {
+      "name": "webkit-scroll-and-width",
+      "pass": true
+    }
+  ],
+  "skipped": [
+    {
+      "name": "firefox-available",
+      "reason": "browserType.launch: spawn UNKNOWN\nCall log:\n\u001b[2m  - <launching> C:\\Users\\medab\\AppData\\Local\\ms-playwright\\firefox-1543\\firefox\\firefox.exe -no-remote -headless -profile C:\\Users\\medab\\AppData\\Local\\Temp\\playwright_firefoxdev_profile-ErLa2F -juggler-pipe -silent\u001b[22m\n"
+    }
+  ],
+  "errors": [],
+  "resources": {
+    "loadedImages": 19,
+    "imageTransferBytes": 5700,
+    "fontRequests": 6
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "mode": "built-in image_gen",
+  "assets": [
+    {
+      "name": "hero",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Spectacular brioche cheeseburger, glossy toasted brioche, double crisp thin smashed beef patties with melted orange cheddar, pickles, red onion, subtle lettuce, special sauce, on black cast iron surface, thin cinematic smoke. Burger fills 70% of height and width."
+    },
+    {
+      "name": "beef",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. A single raw freshly ground beef ball, visible marbling and fibers on dark cast iron griddle, 180g, warm dramatic light and tiny steam, close advertising macro."
+    },
+    {
+      "name": "smash",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Steel burger press pressing fresh ground beef into a thin patty on a hot black griddle, very appetizing sizzle, fine grease droplets and realistic steam, shallow depth of field. No hands visible."
+    },
+    {
+      "name": "sear",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Close macro of a beautifully crispy smashed beef patty on griddle, caramelized jagged crust with glistening fat, golden warm light, fine realistic smoke."
+    },
+    {
+      "name": "melt",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Crispy smashed beef patty with glossy orange cheddar melting down over the edges, steam curling behind, dark griddle, no bread."
+    },
+    {
+      "name": "assembly",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Square 1024x1024 composition. Exploded vertically stacked brioche cheeseburger on PURE black background, front slight three-quarter view. Upper glossy toasted brioche cap at top around 18% y; melted orange cheese and double crispy thin smashed beef patty group centered at y48%; pickles, subtle lettuce, red onion, special sauce, and bottom bun group centered y78%. Groups separated by ample PURE BLACK gaps. All ingredients aligned at same center x, same diameter. Photoreal levitating food advertising, no particles or smoke between layers."
+    },
+    {
+      "name": "double",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Double smash burger with extra melted orange cheddar, crisp bacon strips, caramelized onion, shiny toasted brioche, black backdrop, macro advertising, centered 75% frame. Two clearly distinct crisp thin beef patties."
+    },
+    {
+      "name": "bacon",
+      "prompt": "Use case: ads-marketing. Asset type: premium artisanal burger website photography. Photoreal commercial food photography, cinematic warm tungsten side/back light, black #0b0b0b seamless background fading to pure black at all edges, deep contrast, real grease and crust, cohesive camera low three-quarter front angle. Centered subject with clean black negative space at least 15% around all edges. No lettering, logo, UI, watermark, illustration, or hands. Landscape 1536x1024 composition, unless square requested below. Single large crispy smashed beef burger, melted orange cheddar, abundant golden crisp bacon, artisan mayo, glossy toasted brioche, black backdrop, centered. One large beef patty, noticeably bacon-rich."
+    },
+    {
+      "name": "cheddar",
+      "prompt": "Use case: ads-marketing. Asset type: isolated ingredient for a premium artisanal burger website animation. Generate a single photoreal orange cheddar cheese slice isolated on a genuinely TRANSPARENT background with an alpha channel. Warm tungsten side lighting; low front three-quarter perspective matching commercial macro photographs of burger patties on a dark griddle. A square slice gently draping at its edges, glossy, soft but not completely melted. The slice will physically descend onto a photographed patty before a melted-cheese photo takes over. Landscape 1536x1024 composition, centered with broad empty fully transparent margins around the slice. No burger, no beef, no bun, no plate, no hands, no text, no lettering, no logo, no watermark, no other objects. No black background or checkerboard drawn into the pixels: real transparency."
+    }
+  ]
+}

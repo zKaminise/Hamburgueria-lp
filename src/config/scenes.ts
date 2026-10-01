@@ -1,0 +1,73 @@
+export const scenes = [
+  {
+    id: "beef",
+    label: "A CARNE",
+    english: "THE BEEF",
+    title: ["TUDO COMEÇA", "NA CARNE."],
+    description:
+      "Carne fresca. Blend próprio. Nenhum atalho entre a origem e a chapa.",
+    metric: "180",
+    unit: "G / BLEND ARTESANAL",
+    image: "/assets/sequence/beef.webp",
+    alt: "Bola de carne moída fresca sobre chapa escura",
+  },
+  {
+    id: "smash",
+    label: "A PRESSÃO",
+    english: "THE SMASH",
+    title: ["PRESSÃO.", "CALOR. CROSTA."],
+    description:
+      "O encontro com a chapa. Dez segundos de pressão que mudam tudo.",
+    metric: "230",
+    unit: "°C / CHAPA QUENTE",
+    image: "/assets/sequence/smash.webp",
+    alt: "Prensa de aço achatando a carne sobre a chapa quente",
+  },
+  {
+    id: "sear",
+    label: "A CROSTA",
+    english: "THE SEAR",
+    title: ["POR FORA, CROSTA.", "POR DENTRO, SUCO."],
+    description:
+      "É aqui que o sabor acontece. Uma crosta intensa, um centro suculento.",
+    metric: "10",
+    unit: "S / FAZEM A DIFERENÇA",
+    image: "/assets/sequence/sear.webp",
+    alt: "Close na crosta caramelizada e suculenta da carne",
+  },
+  {
+    id: "melt",
+    label: "O CHEDDAR",
+    english: "THE MELT",
+    title: ["DERRETE DEVAGAR.", "MARCA PRA SEMPRE."],
+    description: "Cheddar de verdade. O calor faz o resto.",
+    metric: "100",
+    unit: "% / SEM ECONOMIA",
+    image: "/assets/sequence/melt.webp",
+    alt: "Cheddar derretendo sobre hambúrguer artesanal na chapa",
+  },
+  {
+    id: "build",
+    label: "A MONTAGEM",
+    english: "THE BUILD",
+    title: ["CADA CAMADA.", "UMA INTENÇÃO."],
+    description:
+      "Brioche tostado. Frescor na medida. Molho da casa. Tudo no seu lugar.",
+    metric: "06",
+    unit: "CAMADAS / UM EQUILÍBRIO",
+    image: "/assets/sequence/assembly.webp",
+    alt: "Ingredientes de um hambúrguer separados em camadas antes da montagem",
+  },
+  {
+    id: "final",
+    label: "O SEU BURGER",
+    english: "THE BURGER",
+    title: ["NÃO É SÓ UM BURGER.", "É O SEU PRÓXIMO VÍCIO."],
+    description:
+      "Feito na chapa. Comido com as mãos. Lembrado na próxima fome.",
+    metric: "01",
+    unit: "MORDIDA / É O QUE BASTA",
+    image: "/assets/burger/hero.webp",
+    alt: "Hambúrguer completo com brioche dourado, cheddar e carne artesanal",
+  },
+] as const;

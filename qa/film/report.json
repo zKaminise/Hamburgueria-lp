@@ -1,0 +1,195 @@
+{
+  "errors": [],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.0012529999999997266,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 5184000
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 0.0000032114695343032906,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.399824
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.0014560000000001239,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 1316640
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 0.0000012862190814644237,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.399292
+    },
+    {
+      "width": 390,
+      "height": 650,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.0018899999999999473,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 1014000
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 1.8893387343510426e-7,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.39946
+    },
+    {
+      "width": 320,
+      "height": 740,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.001658999999999633,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 947200
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 0.0000034950213372297867,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.399719
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.0010989999999999611,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 3145728
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 0.0000024928335173868277,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.400223
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.0014699999999998603,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 4196352
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 9.907601845604574e-7,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.400461
+    },
+    {
+      "width": 3440,
+      "height": 1440,
+      "canvasReady": true,
+      "noHorizontalOverflow": true,
+      "smallScrollChangesPixels": true,
+      "testedScrollPixels": 1,
+      "smallScrollTimeChange": 0.0007839999999998959,
+      "reverseRestoresPixels": true,
+      "reversePixelDifference": {
+        "changedChannels": 0,
+        "maxDifference": 0,
+        "meanDifference": 0,
+        "totalChannels": 8859600
+      },
+      "reverseRestoresPosition": true,
+      "reverseTimeDifference": 0,
+      "reversePositionError": 4.014336916213779e-7,
+      "stopsWhenScrollStops": true,
+      "noOverlappingSceneCopy": true,
+      "visibleSceneCopyCountAtTime5": 0,
+      "reverseTime": 2.399978
+    }
+  ],
+  "checks": [
+    {
+      "name": "reload-at-final-scene-restores-film-and-navigation",
+      "pass": true,
+      "scrollBeforeReload": 5341,
+      "restoredFinalScene": {
+        "time": 6.700179,
+        "finalCopyVisible": true,
+        "activeFinalScene": true,
+        "scrollY": 5341
+      }
+    },
+    {
+      "name": "height-650-600-650-restores-film",
+      "pass": true,
+      "shortHeightFallbackVisible": true,
+      "restoredCanvas": {
+        "ready": true,
+        "nonEmpty": true,
+        "brightPixelRatio": 0.21335305719921105,
+        "width": 390,
+        "height": 650
+      }
+    },
+    {
+      "name": "reduced-motion-fallback",
+      "pass": true
+    }
+  ]
+}

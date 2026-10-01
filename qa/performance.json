@@ -1,0 +1,17 @@
+{
+  "measuredAt": "2026-09-23T01:10:27.991Z",
+  "context": "Localhost, Chrome headless, 390x844, cache nova; não equivale a Lighthouse nem a um aparelho físico.",
+  "loading": {
+    "firstContentfulPaintMs": 312,
+    "initialTransferBytes": 658492,
+    "imageTransferBytes": 350658,
+    "layoutShift": 0.0030660909165092934
+  },
+  "frames": {
+    "frameCount": 1195,
+    "medianMs": 4.199999999999818,
+    "p95Ms": 4.300000000000068,
+    "over50Ms": 0
+  },
+  "noJavaScriptFallback": true
+}

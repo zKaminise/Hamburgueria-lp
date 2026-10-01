@@ -1,0 +1,64 @@
+{
+  "bun-top-v2": {
+    "source": "D:/Importante/Codex/brasa-film-v2/bun-top-v2.png",
+    "original": {
+      "width": 1862,
+      "height": 845,
+      "hasAlpha": true
+    },
+    "crop": {
+      "left": 3,
+      "top": 0,
+      "width": 1858,
+      "height": 840
+    },
+    "aspectRatio": 2.211904761904762,
+    "transparentPixels": 313597,
+    "solidPixels": 1208513,
+    "outputs": [
+      {
+        "path": "public/assets/film/bun-top-v2.webp",
+        "width": 1200,
+        "height": 543,
+        "size": 333364
+      },
+      {
+        "path": "public/assets/film/bun-top-v2-mobile.webp",
+        "width": 640,
+        "height": 289,
+        "size": 91324
+      }
+    ]
+  },
+  "patty-cheese-v2": {
+    "source": "D:/Importante/Codex/brasa-film-v2/patty-cheese-v2.png",
+    "original": {
+      "width": 1916,
+      "height": 821,
+      "hasAlpha": true
+    },
+    "crop": {
+      "left": 0,
+      "top": 5,
+      "width": 1916,
+      "height": 816
+    },
+    "aspectRatio": 2.3480392156862746,
+    "transparentPixels": 348533,
+    "solidPixels": 1185980,
+    "outputs": [
+      {
+        "path": "public/assets/film/patty-cheese-v2.webp",
+        "width": 1200,
+        "height": 511,
+        "size": 264546
+      },
+      {
+        "path": "public/assets/film/patty-cheese-v2-mobile.webp",
+        "width": 640,
+        "height": 273,
+        "size": 77314
+      }
+    ]
+  }
+}

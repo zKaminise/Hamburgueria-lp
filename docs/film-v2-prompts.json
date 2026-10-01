@@ -1,0 +1,30 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "edit",
+  "created": "2026-09-23",
+  "assets": [
+    {
+      "name": "bun-top-v2",
+      "prompt": "Use case: precise-object-edit.\nAsset type: transparent photoreal food cutout for a scroll-driven burger assembly on a premium restaurant website.\nPrimary request: Correct the camera geometry of the top brioche half shown in image 1. It must be a normal upright top burger bun, with a domed golden crust facing up and its cut face facing flat down. The camera is slightly ABOVE the bun and looking down about 12 degrees, therefore its underside is completely HIDDEN. Replace the entire unnatural visible toasted lower ellipse with the correct narrow front bread rim.\nInput images: image 1 is the edit target for the upper brioche bun's identity, glaze, color and light; image 2 is supporting camera perspective and warm light reference from the patty; image 3 is supporting camera perspective and warm light reference from the burger bottom.\nSubject: ONLY one upper half brioche bun, as a clean independent cutout. No meat, cheese, lettuce, plate, board or supporting object.\nComposition: centered wide horizontally level brioche dome, roughly 2.2:1 width to height ratio; balanced margins, fully in frame. Camera from slightly above, same three-quarter frontal burger photography as the patty and bottom bun. The entire lower silhouette is a shallow convex curve, a very narrow pale tan rim along the front only; the bottom cut/toasted face points DOWN and cannot be seen.\nLighting: warm key light from upper left, glossy golden brown buttery crust, naturally irregular highlights, realistic fine wrinkles and toasted texture.\nScene/backdrop: GENUINELY TRANSPARENT BACKGROUND with proper alpha. No colored background, no black background, no checkerboard drawn into pixels, no floor, no cast shadow.\nConstraints: maintain warm photorealism; use the reference crust color and texture. No sesame seeds. Avoid underside view, inverted bun, tilted cut plane, large visible toasted disc, flat pastry, second bun, extra ingredients, text or watermark.",
+      "references": [
+        "public/assets/film/bun-top.webp",
+        "public/assets/film/patty.webp",
+        "public/assets/film/bun-bottom.webp"
+      ],
+      "generatedSource": "C:/Users/medab/.codex/generated_images/01a0cd9e-b198-7f52-b2b5-2c1a7387b421/exec-72a0d2ee-3f44-4f3f-acb8-bdd1a416dd22.png",
+      "original": "D:/Importante/Codex/brasa-film-v2/bun-top-v2.png",
+      "output": "public/assets/film/bun-top-v2.webp"
+    },
+    {
+      "name": "patty-cheese-v2",
+      "prompt": "Use case: precise-object-edit.\nAsset type: transparent photoreal burger patty cutout for continuous scroll animation.\nPrimary request: Edit the source patty by placing one real square slice of rich orange cheddar directly ON its upper surface and melting it naturally. Keep the existing patty outline, size, perspective, camera and lower sidewall unchanged. Cheddar must adhere physically to the meat; it is a coating on this same patty, not a separate floating ingredient.\nInput images: image 1 is the exact source patty and edit target. Preserve its identity, irregular crust perimeter, lower craggy meat sidewall, camera angle, shadows and all visible meat details. Image 2 is a supporting color and lighting reference for the bun.\nSubject: The SAME single browned beef smash patty, now with one fully melted square slice of orange cheddar conforming to its top, irregularly draping at the corners. Thin believable thickness, subtle glossy warm highlights, small soft creases from melting. Cheddar covers most of the upper surface, but crust edges and the whole front meat sidewall remain clearly visible. Bottom silhouette and meat texture unchanged.\nComposition: exact same slightly elevated frontal camera as source patty; same broad horizontal oval proportions, centered, fully in frame. Preserve patty width/height ratio. Do not enlarge or thicken the meat. Do not add a second patty.\nScene/backdrop: GENUINELY TRANSPARENT BACKGROUND with proper alpha. No black or colored background, no checkerboard pixels, no surface or floor.\nConstraints: no bun, lettuce, onion, garnish, plate, cutlery, hand, text or watermark. Natural food photography; no plastic cheese, no floating cheese, no giant cheese flap, no isolated independent cheese slice.",
+      "references": [
+        "public/assets/film/patty.webp",
+        "public/assets/film/bun-top.webp"
+      ],
+      "generatedSource": "C:/Users/medab/.codex/generated_images/01a0cd9e-b198-7f52-b2b5-2c1a7387b421/exec-d16960ff-c071-4a9c-9d3e-c345bd9fb83b.png",
+      "original": "D:/Importante/Codex/brasa-film-v2/patty-cheese-v2.png",
+      "output": "public/assets/film/patty-cheese-v2.webp"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "mode": "built-in image_gen; one parallel batch; no variants",
+  "assets": [
+    {
+      "name": "raw",
+      "path": "D:/Importante/Codex/brasa-generated/beef.png",
+      "prompt": "Use case: background-extraction. Asset for a continuous scroll-driven photoreal burger assembly. EDIT TARGET: supplied beef.png. Extract ONLY the raw ground beef ball onto a genuinely transparent RGBA background. Preserve the exact meat textures, round irregular shape, perspective, scale and warm amber studio lighting of the source. Keep centered with generous transparent margins, landscape canvas 1536x1024. Remove every part of the griddle, smoke, steam, cast shadows and backdrop. Clean natural antialiased meat edges. Actual transparent alpha, not a checkerboard picture, not black or white background. No other objects, no lettering. Preserve subject faithfully; change only background."
+    },
+    {
+      "name": "patty",
+      "path": "D:/Importante/Codex/brasa-generated/sear.png",
+      "prompt": "Use case: background-extraction. Asset for a continuous scroll-driven photoreal burger assembly. EDIT TARGET: supplied sear.png. Extract ONLY the crispy cooked beef patty onto a genuinely transparent RGBA background. Preserve exact crust texture, irregular patty silhouette, juicy highlights, low front three-quarter view, scale, and warm amber lighting of source. Landscape1536x1024 canvas, centered with transparent margins. No griddle, no smoke or steam, no grease puddle or shadow backdrop. Natural clean antialiased object edges. Actual transparent alpha, not a checkerboard picture, not black or white background. No other objects or lettering. Change only background; preserve subject faithfully."
+    },
+    {
+      "name": "assembly",
+      "path": "D:/Importante/Codex/brasa-generated/assembly.png",
+      "prompt": "Use case: background-extraction. Asset for a continuous scroll-driven burger assembly. EDIT TARGET supplied assembly.png. Remove ONLY the black background to genuine transparent RGBA alpha. Preserve the EXACT original 1536x1024 canvas and exact original pixel positions, object dimensions, textures, warm studio lighting and all ingredient details. Keep precisely the same three separated groups: upper golden brioche; middle melted cheese-and-double-patty group; lower bread with sauce, lettuce, onion, pickles group. Do not reposition, rescale, merge or alter any food. Clean alpha in the gaps between groups and outside food, no residual black background pixels or added shadows. Natural antialiased edges. Actual transparency, never a checkerboard pattern or opaque backdrop. No added food, text, tools or decorations."
+    },
+    {
+      "name": "press",
+      "prompt": "Use case: product-mockup. Photorealistic heavy flat rectangular stainless steel smash burger press, entire tool isolated on genuine transparent RGBA background. Landscape canvas1536x1024. Low three-quarter front view at food photography angle, showing broad horizontal flat rectangular pressing plate and sturdy vertical handle extending upward, physically credible professional kitchen tool. Brushed stainless steel with warm amber tungsten rim reflections, matching premium dark-studio burger photography. Pressing plate spans70%of frame width and sits around65%of image height, entire handle within frame and transparent margins around tool. No meat, hands, other tools, floor, scene, cast shadow, lettering, logos, watermark or decorations. Actual alpha transparency, no black or white background and no checkerboard picture."
+    },
+    {
+      "name": "griddle",
+      "prompt": "Use case: photorealistic-natural. BACKGROUND ONLY for continuous scroll-driven burger assembly, landscape1536x1024 cinematic premium food studio photograph. Matte charcoal black upper65%of image fading to pure black at edges; empty hot black steel flat griddle covers lower35%, viewed at low three-quarter front food photography angle with horizon near65%height. Subtle warm amber tungsten rim light and restrained golden grease reflections on steel. Faint fine steam only at far left and right edges. Center remains completely empty for composited food. Realistic subtle griddle texture. No food, meat, buns, tools, hands, people, lettering, logos, watermarks or other objects. Opaque photographic background, muted premium dark studio lighting."
+    }
+  ]
+}

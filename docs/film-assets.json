@@ -1,0 +1,37 @@
+{
+  "raw": {
+    "width": 1047,
+    "height": 807,
+    "alpha": true
+  },
+  "patty": {
+    "width": 1480,
+    "height": 634,
+    "alpha": true
+  },
+  "press": {
+    "width": 1503,
+    "height": 827,
+    "alpha": true
+  },
+  "bun-top": {
+    "width": 618,
+    "height": 284,
+    "alpha": true
+  },
+  "bun-bottom": {
+    "width": 673,
+    "height": 341,
+    "alpha": true
+  },
+  "cheese": {
+    "width": 1216,
+    "height": 499,
+    "alpha": true
+  },
+  "griddle": {
+    "width": 1536,
+    "height": 1024,
+    "alpha": false
+  }
+}
